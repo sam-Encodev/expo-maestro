@@ -1,0 +1,5 @@
+appId: com.mantle.expomaestro
+---
+- openLink: exp://192.168.100.68:8081
+
+- assertVisible: "Open up App.js to start working on your app!"
